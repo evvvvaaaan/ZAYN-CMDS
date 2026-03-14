@@ -1,6 +1,6 @@
-### 🔧 Moderation
+## 🔧 Moderation
 
-Description:
+**Description:**
 
 Moderation commands allow server administrators and moderators to manage members and maintain order in the server. These commands include actions such as banning, kicking, muting, warning users, managing roles, clearing messages, and controlling member permissions.
 
@@ -43,9 +43,9 @@ moderation:
 - warn-info
 - unwarn
 
-🛡 Security
+## 🛡 Security
 
-Description:
+**Description:**
 
 Security commands protect the server from raids, abuse, and malicious activities. They include anti-raid systems, anti-ban protection, link filtering, bot protection, webhook security, permission monitoring, and advanced automod features to keep the community safe.
 
@@ -100,9 +100,9 @@ security:
 - unlock-vip: فتح ميزات VIP
 
 
-✅ Verification
+## ✅ Verification
 
-Description:
+**Description:**
 
 Verification commands manage the member verification system. They help assign roles after verification, track invites, manage verification logs, detect suspicious users, and control verification channels to ensure that only legitimate members join the server.
 
@@ -133,9 +133,9 @@ verification:
 - vg: تحقق بنت
 
 
-🔊 Temp Voice
+## 🔊 Temp Voice
 
-Description:
+**Description:**
 
 Temp Voice commands manage temporary voice channels for users. They allow the bot to automatically create voice rooms when members join specific channels and remove them when they become empty.
 
@@ -162,9 +162,9 @@ tempvoice:
 - set-vc-channel-verif
 - set-verif-roles
 
-👋 Welcome
+## 👋 Welcome
 
-Description:
+**Description:**
 
 Welcome commands control the server’s greeting system. They manage welcome messages, boost notifications, member join tags, and automatic nickname resets for new members.
 
@@ -177,9 +177,9 @@ welcome:
 - check-all-tag
 - resetallnick
 
-📜 Logs
+## 📜 Logs
 
-Description:
+**Description:**
 
 Logging commands record important server activities such as bans, kicks, mutes, warnings, message deletions, and role changes. These logs help administrators monitor and review server actions.
 
@@ -196,9 +196,9 @@ setlogs:
 - set-timeout-log
 - set-warn-unwarn-log
 
-💎 Premium
+## 💎 Premium
 
-Description:
+**Description:**
 
 Premium commands manage special features available for premium users or servers. They allow administrators to create premium roles, manage premium categories, and track premium activity logs.
 
