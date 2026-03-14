@@ -1,4 +1,4 @@
-🔧 Moderation
+### 🔧 Moderation
 
 Description:
 
@@ -99,59 +99,6 @@ security:
 - lock-vip: قفل ميزات VIP
 - unlock-vip: فتح ميزات VIP
 
-========================================
-📌 SHORTENED COMMANDS (أوامر مختصرة)
-========================================
-
-security (مختصر):
-- abuse-wl: إضافة للقائمة البيضاء
-- abuse-bl: إزالة من القائمة البيضاء
-- a-abuse: فلتر الإساءة
-- a-ban: حماية من البان
-- a-ban-check: فحص البان
-- a-ban-wl: قائمة بيضاء للبان
-- a-ban-bl: إزالة من قائمة البان
-- a-bots: حماية من البوتات
-- a-bots-wl: قائمة بيضاء للبوتات
-- a-bots-bl: إزالة من قائمة البوتات
-- a-delete: حماية من الحذف
-- a-delete-wl: قائمة بيضاء للحذف
-- a-delete-bl: إزالة من قائمة الحذف
-- a-links: حظر الروابط
-- a-raid: حماية من الهجمات
-- a-removerole: حماية من إزالة الرتب
-- a-webhook: حماية الويبهوك
-- a-ch-create: حماية إنشاء القنوات
-- a-ch-create-wl: قائمة بيضاء لإنشاء القنوات
-- a-ch-create-bl: إزالة من قائمة إنشاء القنوات
-- a-ch-delete: حماية حذف القنوات
-- a-ch-delete-wl: قائمة بيضاء لحذف القنوات
-- a-ch-delete-bl: إزالة من قائمة حذف القنوات
-- a-ch-perms: حماية صلاحيات القنوات
-- a-giverole: حماية إعطاء الرتب
-- a-giverole-wl: قائمة بيضاء لإعطاء الرتب
-- a-giverole-bl: إزالة من قائمة إعطاء الرتب
-- a-ch-rename: حماية إعادة تسمية القنوات
-- a-ch-rename-wl: قائمة بيضاء لإعادة التسمية
-- a-ch-rename-bl: إزالة من قائمة إعادة التسمية
-- a-srv-rename: حماية اسم السيرفر
-- automod: إعدادات AutoMod
-- cmd-info: صلاحيات الأوامر
-- cmd-off: تعطيل أمر
-- cmd-on: تفعيل أمر
-- cmd-role: ربط أمر برتبة
-- cmd-unrole: إلغاء ربط أمر
-- protect: حماية عضو
-- unprotect: إلغاء حماية عضو
-- role-track: تتبع الرتب
-- sec-vc: القنوات الآمنة
-- sec-log: سجلات الأمان
-- wh-allow: السماح بالويبهوك
-- wh-deny: منع الويبهوك
-- link-wl: روابط مسموحة
-- link-bl: إزالة روابط
-- vip-lock: قفل VIP
-- vip-unlock: فتح VIP
 
 ✅ Verification
 
